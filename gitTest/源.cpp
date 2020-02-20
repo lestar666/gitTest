@@ -26,6 +26,6 @@ int main() {
 		// ÏÔÊ¾
 		imshow("frame", frame); cnt++;
 		// °´ ESC ¼üÍË³ö
-		if (waitKey(1) == 27)break;
+		if (waitKey(1) == 25)break;
 	}
 	return 0;
